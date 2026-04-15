@@ -1,6 +1,6 @@
-package entity;
+package com.example.restservice.entity;
 
-import entity.Enum.DishType;
+import com.example.restservice.entity.Enum.DishType;
 
 import java.util.List;
 

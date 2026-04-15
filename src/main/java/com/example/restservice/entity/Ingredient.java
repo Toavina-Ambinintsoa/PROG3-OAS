@@ -1,6 +1,6 @@
-package entity;
+package com.example.restservice.entity;
 
-import entity.Enum.IngredientType;
+import com.example.restservice.entity.Enum.IngredientType;
 
 public class Ingredient {
     private Integer id;

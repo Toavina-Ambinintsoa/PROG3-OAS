@@ -1,7 +1,7 @@
-package entity;
+package com.example.restservice.entity;
 
-import entity.Enum.MovementType;
-import entity.Enum.StockUnit;
+import com.example.restservice.entity.Enum.MovementType;
+import com.example.restservice.entity.Enum.StockUnit;
 
 import java.time.Instant;
 

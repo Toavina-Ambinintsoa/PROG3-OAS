@@ -1,4 +1,4 @@
-package entity;
+package com.example.restservice.entity;
 
 public class StockValue {
     private String unit;
