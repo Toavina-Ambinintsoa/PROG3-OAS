@@ -2,7 +2,7 @@ package entity;
 
 import entity.Enum.IngredientType;
 
-public class Ingredients {
+public class Ingredient {
     private Integer id;
     private String name;
     private String category;
