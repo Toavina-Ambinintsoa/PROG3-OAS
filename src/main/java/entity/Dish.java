@@ -1,5 +1,7 @@
 package entity;
 
+import entity.Enum.DishType;
+
 import java.util.List;
 
 public class Dish {
